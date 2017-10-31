@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 1
+img: paintbrush.png
+alt: image-alt
+description: Use this area of the page to describe painting servies
+
+---

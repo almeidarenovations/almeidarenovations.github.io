@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2017-10-29T13:28:18-04:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Almeida Painting &amp;amp; Renovations</title>
+  
+
+  
+    <subtitle></subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Painting</title>
+      <link href="http://localhost:4000/2014/07/18/painting/" rel="alternate" type="text/html" title="Painting" />
+      <published>2014-07-18T00:00:00-04:00</published>
+      <updated>2014-07-18T00:00:00-04:00</updated>
+      <id>http://localhost:4000/2014/07/18/painting</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/18/painting/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Tile &amp;amp; Flooring</title>
+      <link href="http://localhost:4000/2014/07/17/tile-&-flooring/" rel="alternate" type="text/html" title="Tile &amp; Flooring" />
+      <published>2014-07-17T00:00:00-04:00</published>
+      <updated>2014-07-17T00:00:00-04:00</updated>
+      <id>http://localhost:4000/2014/07/17/tile-&amp;-flooring</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/17/tile-&amp;-flooring/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Bathrooms &amp;amp; Kitchens</title>
+      <link href="http://localhost:4000/2014/07/16/bathrooms-&-kitchens/" rel="alternate" type="text/html" title="Bathrooms &amp; Kitchens" />
+      <published>2014-07-16T00:00:00-04:00</published>
+      <updated>2014-07-16T00:00:00-04:00</updated>
+      <id>http://localhost:4000/2014/07/16/bathrooms-&amp;-kitchens</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/16/bathrooms-&amp;-kitchens/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Full Home Renovations</title>
+      <link href="http://localhost:4000/2014/07/15/full-home-renovations/" rel="alternate" type="text/html" title="Full Home Renovations" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/2014/07/15/full-home-renovations</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/15/full-home-renovations/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Decks Patios &amp;amp; Fences</title>
+      <link href="http://localhost:4000/2014/07/13/decks-patios-&-fences/" rel="alternate" type="text/html" title="Decks Patios &amp; Fences" />
+      <published>2014-07-13T00:00:00-04:00</published>
+      <updated>2014-07-13T00:00:00-04:00</updated>
+      <id>http://localhost:4000/2014/07/13/decks-patios-&amp;-fences</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/13/decks-patios-&amp;-fences/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Free Consultation</title>
+      <link href="http://localhost:4000/2014/07/12/free-consultation/" rel="alternate" type="text/html" title="Free Consultation" />
+      <published>2014-07-12T00:00:00-04:00</published>
+      <updated>2014-07-12T00:00:00-04:00</updated>
+      <id>http://localhost:4000/2014/07/12/free-consultation</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/12/free-consultation/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
