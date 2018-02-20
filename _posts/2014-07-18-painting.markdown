@@ -3,6 +3,6 @@ layout: default
 modal-id: 1
 img: paintbrush.png
 alt: image-alt
-description: Use this area of the page to describe painting servies
+description: A service that this company was founded on, painting is second nature for the Almeida Renovations team. We are reliable, professional, and when it comes to painting your home, we will take all the correct steps from start to finish to ensure the painting job is done correct. 
 
 ---

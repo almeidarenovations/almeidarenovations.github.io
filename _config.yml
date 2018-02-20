@@ -1,27 +1,22 @@
 # Site settings
 title: Almeida Painting & Renovations
-email: contact@almeidapaintingandrenovations.com
-url: https://example.github.io
+email: contact@almeidarenovations.ca
+url: https://almeidarenovations.ca
 description: ""
-skills: "Painting - Renovations - Touchups"
-meta_author: LastName FirstName
+skills: "Painting - Renovations - Transformations"
+meta_author: Luke Almeida
 
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : using formspree.io to validate email sending
 contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 34495e #34495e
-  primary-rgb: "230, 126, 34" #"230, 126, 34"
-  secondary: e67e22 #e67e22
-  secondary-dark: 2c3e50 #2c3e50
+  primary-rgb: "52, 73, 94" #"52, 73, 94"
+  secondary: A6905F #A6905F
+  secondary-dark: 5A4540 #2c3e50
 
 # Footer settings
 footer:
@@ -37,7 +32,7 @@ address:
 # Credits content
 phone: 
   - line: 1-(519)-242-6124
-  - line: contact@almeidapaintingandrenovations.com
+  - line: contact@almeidarenovations.ca
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 2
+img: floor.png
+alt: image-alt
+description: Old flooring or carpet needing to be replaced? Not to worry, we are here to help. Hardwood, tile, and laminate are our flooring specialties. We will always properly remove your existing flooring and subflooring and start with perfect flooring underlay. Whether its a bathroom, or a laundry room - new flooring is sure to bring life back into your home.
+
+---

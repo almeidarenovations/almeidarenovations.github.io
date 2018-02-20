@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-11-03T11:04:22-04:00</updated>
+  <updated>2018-02-20T10:08:44-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -52,12 +52,12 @@
     </entry>
   
     <entry>
-      <title type="html">Tile &amp;amp; Flooring</title>
-      <link href="http://localhost:4000/2014/07/17/tile-&-flooring/" rel="alternate" type="text/html" title="Tile &amp; Flooring" />
+      <title type="html">Flooring</title>
+      <link href="http://localhost:4000/2014/07/17/flooring/" rel="alternate" type="text/html" title="Flooring" />
       <published>2014-07-17T00:00:00-04:00</published>
       <updated>2014-07-17T00:00:00-04:00</updated>
-      <id>http://localhost:4000/2014/07/17/tile-&amp;-flooring</id>
-      <content type="html" xml:base="http://localhost:4000/2014/07/17/tile-&amp;-flooring/"></content>
+      <id>http://localhost:4000/2014/07/17/flooring</id>
+      <content type="html" xml:base="http://localhost:4000/2014/07/17/flooring/"></content>
 
       
       
